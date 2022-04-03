@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/apis
+*youTube
 
 # production
 /build
